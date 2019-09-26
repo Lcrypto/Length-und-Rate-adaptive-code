@@ -1,0 +1,14 @@
+lastPunchNodes = 2
+firstShortNodes = 0
+separateScaleForPuncNodes = 0
+liftingOffset = 0
+debug = 1
+decType = 7
+iter_decoder = 50
+blockErrorLimit = 200
+scaleCollection = 1,1,0.95,0.85,0.8,0.75
+offsetCollection = 0.25
+V2CmsgBitWidth = 8
+C2VmsgBitWidth = 6
+llrScale = 3.70
+fastDecMode = 1
