@@ -39,12 +39,12 @@ fastDecMode = 1;  % use floar point or fix-point decoder
 shiftToRec = zeros(1, 100);
 multilabelingSeeds = 1:2:15; % initial seed for cyclic group a= multilabelingSeeds*2^n
 % find start matrix
-[~, bigProto, startCirc, liftedMatrix] = readProto('check.txt');
+[~, bigProto, startCirc, liftedMatrix] = readProto('proto52x42BG2.txt');
 
 layered = 0; % use layer message scheduller 
 [rows, cols] = size(bigProto);
-codeRates = [1/3]; % rate
-rowsCollection = [16];      %number of check nodes in protograph
+codeRates = [1/3];%, 1/4, 1/5, 1/6]; % rate
+rowsCollection = [22 32 42 52];      %number of check nodes in protograph
 punByRates = [2, 2, 2, 2];           %number of punctured circulants per each rate
 shortByRates = [0, 0, 0, 0];         %number of shortened circulant per each rate
 
