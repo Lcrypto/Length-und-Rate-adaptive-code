@@ -9,7 +9,6 @@ code properties;
 
 perfomance under simulation; 
 
-
 recoverability of VNs and etc.
 
 
