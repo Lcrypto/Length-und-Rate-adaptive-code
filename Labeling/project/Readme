@@ -1,0 +1,2 @@
+This folder contain simple and fast liting approach using only girth constrains. It require  library for parameters read.
+You can change it by diferent lifting approach which consider additionaly parameters like ACE, EMD, upper-Bound on code distance.

@@ -1,0 +1,12 @@
+<NoOfSymbol>
+2
+<NormFactor>
+1
+<SymbolNo0>
+1
+0
+<SymbolNo1>
+-1
+0
+
+
