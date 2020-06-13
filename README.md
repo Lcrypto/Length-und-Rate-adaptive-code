@@ -1,6 +1,6 @@
 # Construction of length and rate adaptive MET QC-LDPC Codes
 This project contain Matlab platform (toolchain)  to construction Length and Rate adaptive codes MET QC-LDPC Codes.
-![alt text](https://www.google.com/search?q=usatyuk+vasiliy+ldpc&sxsrf=ALeKk02kPikx8JI1GJJ-_f_0MHSWKOPNKw:1592058496205&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi20oKJgP_pAhUNzqQKHckmDbMQ_AUoAXoECAsQAw&biw=1920&bih=947#imgrc=2srxLWXF5WeqRM)
+![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/MET_LDPC_2013.jpg)
 
 It allow to make several step sieving by lifting underdefined constrains from protograph based on: 
 
