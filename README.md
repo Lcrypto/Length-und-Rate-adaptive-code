@@ -16,7 +16,9 @@ It allow to make several step sieving by lenght and rate adaptive lifting underd
 
 graph properties(girth,EMD);
 
-code properties;
+code properties; 
+Our results from code distance challenge https://decodingchallenge.org/low-weight/
+![alt text](https://github.com/Lcrypto/Length-und-Rate-adaptive-code/blob/master/Code_distance_challenge.png)
 
 perfomance under simulation; 
 
